@@ -7,4 +7,3 @@ function BoardMember(name, homeState, training) {
     return "No, I must disagree"
   }
 }
-
